@@ -1,0 +1,5 @@
+forecast:
+http://api.openweathermap.org/data/2.5/forecast/city?id=2861650&APPID=cec4b6d199ecbce1e5936d0602e4179d&units=metric
+
+current:
+http://api.openweathermap.org/data/2.5/weather?id=2861650&APPID=cec4b6d199ecbce1e5936d0602e4179d&units=metric&lang=de
